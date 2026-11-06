@@ -9,7 +9,7 @@ entrance examinations and study-abroad options.
 
 **Primary audience:** Class 10--12 students\
 **Secondary audience:** Parents and families\
-**Project proposal:** Six-month prototype \| **Proposed core stack:**
+**Project proposal:** four month prototype \| **Proposed core stack:**
 Java + MongoDB
 
 ------------------------------------------------------------------------
